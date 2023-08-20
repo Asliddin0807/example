@@ -1,0 +1,6 @@
+[build]
+  command = "npm run build" # Команда сборки вашего проекта (если требуется)
+  functions = "netlify" # Путь к папке с функциями Netlify
+
+[dev]
+  functions = "netlify" # Путь к папке с функциями Netlify
